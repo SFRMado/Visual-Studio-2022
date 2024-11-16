@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-1\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF69627-32AA-4387-8D52-6CE0B528F644}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-1\\winformsapp1\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{DAF69627-32AA-4387-8D52-6CE0B528F644}|WinFormsApp1.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF69627-32AA-4387-8D52-6CE0B528F644}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-1\\winformsapp1\\form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{DAF69627-32AA-4387-8D52-6CE0B528F644}|WinFormsApp1.vbproj|solutionrelative:form3.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DAF69627-32AA-4387-8D52-6CE0B528F644}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-1\\winformsapp1\\winformsapp1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{DAF69627-32AA-4387-8D52-6CE0B528F644}|WinFormsApp1.vbproj|solutionrelative:winformsapp1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-1\\WinFormsApp1\\WinFormsApp1.vbproj",
+              "RelativeDocumentMoniker": "WinFormsApp1.vbproj",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-1\\WinFormsApp1\\WinFormsApp1.vbproj",
+              "RelativeToolTip": "WinFormsApp1.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-10-04T02:17:29.421Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form3.vb",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-1\\WinFormsApp1\\Form3.vb",
+              "RelativeDocumentMoniker": "Form3.vb",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-1\\WinFormsApp1\\Form3.vb",
+              "RelativeToolTip": "Form3.vb",
+              "ViewState": "AgIAADgAAAAAAAAAAAAAwEUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T02:06:18.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.vb [Design]",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-1\\WinFormsApp1\\Form3.vb",
+              "RelativeDocumentMoniker": "Form3.vb",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-1\\WinFormsApp1\\Form3.vb [Design]",
+              "RelativeToolTip": "Form3.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T01:50:59.942Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-2\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA62C-1919-4E68-825E-0607C524F2D4}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-2\\winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1BCFA62C-1919-4E68-825E-0607C524F2D4}|WinFormsApp1.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA62C-1919-4E68-825E-0607C524F2D4}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-2\\winformsapp1\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1BCFA62C-1919-4E68-825E-0607C524F2D4}|WinFormsApp1.vbproj|solutionrelative:form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA62C-1919-4E68-825E-0607C524F2D4}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-2\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{1BCFA62C-1919-4E68-825E-0607C524F2D4}|WinFormsApp1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BCFA62C-1919-4E68-825E-0607C524F2D4}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-2\\winformsapp1\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{1BCFA62C-1919-4E68-825E-0607C524F2D4}|WinFormsApp1.vbproj|solutionrelative:form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-2\\WinFormsApp1\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-2\\WinFormsApp1\\Form2.vb",
+              "RelativeToolTip": "Form2.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T03:15:40.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-2\\WinFormsApp1\\Form2.vb",
+              "RelativeDocumentMoniker": "Form2.vb",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-2\\WinFormsApp1\\Form2.vb [Design]",
+              "RelativeToolTip": "Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T03:00:37.058Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-2\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-2\\WinFormsApp1\\Form1.vb",
+              "RelativeToolTip": "Form1.vb",
+              "ViewState": "AgIAAAEAAAAAAAAAAAA1wA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T02:59:43.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-2\\WinFormsApp1\\Form1.vb",
+              "RelativeDocumentMoniker": "Form1.vb",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-2\\WinFormsApp1\\Form1.vb [Design]",
+              "RelativeToolTip": "Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-04T02:55:08.877Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

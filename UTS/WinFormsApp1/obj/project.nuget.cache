@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "d2k9ONShtcI=",
+  "success": true,
+  "projectFilePath": "E:\\Visual Programming\\VS2022C\\UTS\\WinFormsApp1\\WinFormsApp1.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\SFR\\.nuget\\packages\\system.data.odbc\\9.0.0\\system.data.odbc.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

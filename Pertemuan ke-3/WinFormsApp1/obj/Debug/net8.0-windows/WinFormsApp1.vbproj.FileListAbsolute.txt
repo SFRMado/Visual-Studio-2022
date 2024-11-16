@@ -1,0 +1,17 @@
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.FormPercabanganatauPemilihan.resources
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.GenerateResource.cache
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfoInputs.cache
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.AssemblyInfo.vb
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.vbproj.CoreCompileInputs.cache
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.exe
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.deps.json
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.runtimeconfig.json
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\bin\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.dll
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\refint\WinFormsApp1.dll
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.pdb
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.genruntimeconfig.cache
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\ref\WinFormsApp1.dll
+E:\Visual Programming\VS2022C\Pertemuan ke-3\WinFormsApp1\obj\Debug\net8.0-windows\WinFormsApp1.FormProgramPenjualanSederhana.resources

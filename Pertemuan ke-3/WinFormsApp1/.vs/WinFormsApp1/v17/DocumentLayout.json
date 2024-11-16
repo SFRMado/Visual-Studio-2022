@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC29413-79F4-4E36-813B-8CDC85D034F9}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-3\\winformsapp1\\formprogrampenjualansederhana.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9BC29413-79F4-4E36-813B-8CDC85D034F9}|WinFormsApp1.vbproj|solutionrelative:formprogrampenjualansederhana.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC29413-79F4-4E36-813B-8CDC85D034F9}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-3\\winformsapp1\\formprogrampenjualansederhana.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9BC29413-79F4-4E36-813B-8CDC85D034F9}|WinFormsApp1.vbproj|solutionrelative:formprogrampenjualansederhana.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC29413-79F4-4E36-813B-8CDC85D034F9}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-3\\winformsapp1\\winformsapp1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9BC29413-79F4-4E36-813B-8CDC85D034F9}|WinFormsApp1.vbproj|solutionrelative:winformsapp1.vbproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC29413-79F4-4E36-813B-8CDC85D034F9}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-3\\winformsapp1\\formpercabanganataupemilihan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9BC29413-79F4-4E36-813B-8CDC85D034F9}|WinFormsApp1.vbproj|solutionrelative:formpercabanganataupemilihan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BC29413-79F4-4E36-813B-8CDC85D034F9}|WinFormsApp1.vbproj|e:\\visual programming\\vs2022c\\pertemuan ke-3\\winformsapp1\\formpercabanganataupemilihan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9BC29413-79F4-4E36-813B-8CDC85D034F9}|WinFormsApp1.vbproj|solutionrelative:formpercabanganataupemilihan.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WinFormsApp1",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\WinFormsApp1.vbproj",
+              "RelativeDocumentMoniker": "WinFormsApp1.vbproj",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\WinFormsApp1.vbproj",
+              "RelativeToolTip": "WinFormsApp1.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003380|",
+              "WhenOpened": "2024-10-11T04:16:44.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormProgramPenjualanSederhana.vb",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\FormProgramPenjualanSederhana.vb",
+              "RelativeDocumentMoniker": "FormProgramPenjualanSederhana.vb",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\FormProgramPenjualanSederhana.vb",
+              "RelativeToolTip": "FormProgramPenjualanSederhana.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-11T03:39:59.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormProgramPenjualanSederhana.vb [Design]",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\FormProgramPenjualanSederhana.vb",
+              "RelativeDocumentMoniker": "FormProgramPenjualanSederhana.vb",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\FormProgramPenjualanSederhana.vb [Design]",
+              "RelativeToolTip": "FormProgramPenjualanSederhana.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-11T03:23:43.508Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FormPercabanganatauPemilihan.vb",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\FormPercabanganatauPemilihan.vb",
+              "RelativeDocumentMoniker": "FormPercabanganatauPemilihan.vb",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\FormPercabanganatauPemilihan.vb",
+              "RelativeToolTip": "FormPercabanganatauPemilihan.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-11T02:13:30.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FormPercabanganatauPemilihan.vb [Design]",
+              "DocumentMoniker": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\FormPercabanganatauPemilihan.vb",
+              "RelativeDocumentMoniker": "FormPercabanganatauPemilihan.vb",
+              "ToolTip": "E:\\Visual Programming\\VS2022C\\Pertemuan ke-3\\WinFormsApp1\\FormPercabanganatauPemilihan.vb [Design]",
+              "RelativeToolTip": "FormPercabanganatauPemilihan.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-10-11T02:03:05.155Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
